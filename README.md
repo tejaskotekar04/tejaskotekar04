@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I am Tejas Kotekar.<br>I am a Computer Engineering graduate.
-Passionate about software development, backend engineering and building scalable web applications.
+Hello, I am Tejas Kotekar.<br>I am a Computer Engineering graduate.<br>Passionate about software development, backend engineering and building scalable web applications.
 
 
 ## 🌐 Socials:
