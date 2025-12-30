@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Tejas Kotekar.<br>I am a Computer Engineering graduate.<br>Passionate about software development, backend engineering and building scalable web applications. <br>I enjoy solving real-world problems, designing APIs and and exploring how AI models can enhance backend applications.
+Hello, I am Tejas Kotekar.<br>I am a Computer Engineering graduate.<br>Passionate about software development, backend engineering and building scalable web applications. <br>I enjoy solving real-world problems, designing APIs and exploring how AI models can enhance backend applications.
 
 
 ## 🌐 Socials:
